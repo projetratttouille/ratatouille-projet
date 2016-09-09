@@ -1,7 +1,7 @@
 <header>
 <a href="index.php">logo</a>
 <nav>
-	<ul>
+	<ul class="nav nav-tabs">
 		<li>
 			<a href="index.php">Accueil</a>
 		</li>
