@@ -1,41 +1,25 @@
 body {
-	background-color: white;
+	background-color: #606c88;
+}
+a{
+	color: white;
+}
+header, footer{
+	background-color: #353f56;
 }
 
 #bloc_page {
 	display: flex;
 	flex-direction: column;
-	align-items:: center;
 	justify-content: center;
-	width: 1200px;
+	width: 100%;
 	margin: auto;
-	border: 1px solid black;
-
 }
-section {
-	min-height: 600px;
-}
-
-header {
-	border: 1px solid green;
-}
-
-footer {
-	border: 1px solid red;
-}
-
-section {
-	border: 1px solid blue;
-}
-
 nav {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-
-
 }
-
 nav ul {
 	list-style-type: none;
 	display: flex;
@@ -44,4 +28,8 @@ nav ul {
 	justify-content: space-around;
 }
 
+/*classes*/
 
+.top10{
+	margin-top: 10px;
+}

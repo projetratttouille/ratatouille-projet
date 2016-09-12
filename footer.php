@@ -1,6 +1,6 @@
-<footer>
+<footer class="top10">
 	<nav>
-		<ul>	
+		<ul>
 			<li>
 				<a href="contact.php">Contact</a>
 			</li>
