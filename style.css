@@ -9,13 +9,13 @@ body {
 	justify-content: center;
 	width: 1200px;
 	margin: auto;
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 
 }
 section {
 	min-height: 600px;
 }
-
+/*
 header {
 	border: 1px solid green;
 }
@@ -27,7 +27,7 @@ footer {
 section {
 	border: 1px solid blue;
 }
-
+*/
 nav {
 	display: flex;
 	align-items: center;
@@ -44,4 +44,32 @@ nav ul {
 	justify-content: space-around;
 }
 
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+	        width: 70%;
+		      margin: auto;
+		        }
 
+.restos li img {
+	width: 200px;
+}
+
+.restos {
+	margin-top: 25px;
+	display: flex;	
+	align-items: center;
+
+}
+.restos ul {
+
+	list-style-type: none;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+
+.restos li {
+
+	margin-right: 15px;
+}
