@@ -9,11 +9,10 @@
 		<body>
 			<div id="bloc_page">
 				<?php include('header.php'); ?>
-				
 				<section>
 				</section>
-				<?php include('footer.php'); ?>			
+				<?php include('footer.php'); ?>
 			</div>
-			
+
 		</body>
 	</html>

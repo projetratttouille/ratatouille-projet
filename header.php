@@ -1,16 +1,16 @@
-<header>
-<a href="index.php">logo</a>
 <nav>
-	<ul class="nav nav-tabs">
+	<a href="index.php">logo</a>
+</nav>
+<nav>
+	<ul class="nav na-pills nav-justified">
 		<li>
-			<a href="index.php">Accueil</a>
+			<a class="navbar-brand" href="index.php">Accueil</a>
 		</li>
 		<li>
-			<a href="nous.php">Qui sommes nous?</a>
+			<a class="navbar-brand" href="nous.php">Qui sommes nous?</a>
 		</li>
 		<li>
-			<a href="franchise.php">La franchise</a>
+			<a class="navbar-brand" href="franchise.php">La franchise</a>
 		</li>
 	</ul>
 </nav>
-</header>
